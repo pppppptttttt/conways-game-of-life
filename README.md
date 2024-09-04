@@ -10,7 +10,7 @@ Rules of the Game of Life
 ### Controls
 Press `Enter` key for pause/unpause simulation. Empty field is always paused. Click mouse to toggle dead/alive cell. Press `Escape` to exit.
 
-### Install:
+### Install
 ```sh
 git clone https://github.com/pppppptttttt/conways-game-of-life.git
 cd conways-game-of-life
@@ -18,7 +18,7 @@ cmake -DCMAKE_BUILD_TYPE=Release .
 make
 ```
 
-### Launch:
+### Launch
 ```sh
 ./gol
 ```
